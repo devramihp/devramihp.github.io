@@ -1,4 +1,4 @@
-{
+
 <details>
 <summary>CLICK ME</summary>
 <p>
@@ -11,5 +11,3 @@
 
 </p>
 </details>
-
-}
